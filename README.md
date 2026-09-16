@@ -10,7 +10,7 @@
 *Three classic Monte Carlo methods, implemented from scratch, of the kind used across scientific computing and particle-physics research for detector simulation, cross-section estimation, and uncertainty propagation.*
 
 </div>
-
+ 
 ---
 
 ## 📌 What this is
